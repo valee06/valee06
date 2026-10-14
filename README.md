@@ -14,7 +14,7 @@
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=3d3d3d)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white&labelColor=3d3d3d)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=3d3d3d)
-
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=3d3d3d)
 ---
 
 ### 🎓 Education
@@ -26,7 +26,8 @@
 - Relational databases, SQL and PL/pgSQL
 - Systems programming in C: memory, pointers, libraries
 - Testing and code coverage (Check, gcov, valgrind)
-
+- Containerization with Docker
+  
 ### 📬 How to Reach Me
 - Telegram: [@va1_ence](https://t.me/va1_ence)
 
