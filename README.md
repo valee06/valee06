@@ -18,7 +18,7 @@
 ---
 
 ### 🎓 Education
-- **Plekhanov Russian University of Economics** (ongoing)
+- **Plekhanov Russian University of Economics** (2024-2028)
 - **School 21 by Sber**, Backend Developer track (ongoing)
 
 ### 🌱 Interests
