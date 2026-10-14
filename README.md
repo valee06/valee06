@@ -6,6 +6,7 @@
 
 ### Мой стек
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=3d3d3d)
 ![Go](https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=3d3d3d)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=3d3d3d)
 ![SQL](https://img.shields.io/badge/PL%2FPGSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=3d3d3d)
@@ -13,7 +14,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=3d3d3d)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=3d3d3d)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white&labelColor=3d3d3d)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=3d3d3d)
 
 ---
 
