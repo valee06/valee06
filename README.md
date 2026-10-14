@@ -1,6 +1,6 @@
 # Hi there, I'm Nailya 👋
 
-**Aspiring backend developer: Go, C and PostgreSQL ⚙️🇷🇺**
+**Aspiring backend developer: Go, C and PostgreSQL**
 
 ---
 
